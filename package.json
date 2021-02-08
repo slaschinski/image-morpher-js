@@ -1,0 +1,31 @@
+{
+  "name": "image-morpher",
+  "version": "0.0.1",
+  "description": "Warps and blends between two images",
+  "main": "src/image-morpher.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaschinski/image-morpher-js.git"
+  },
+  "keywords": [
+    "image",
+    "warp",
+    "morph",
+    "blend",
+    "face"
+  ],
+  "author": "Sven Laschinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slaschinski/image-morpher-js/issues"
+  },
+  "homepage": "https://github.com/slaschinski/image-morpher-js#readme",
+  "devDependencies": {
+    "@types/webgl2": "0.0.5",
+    "typescript": "^4.1.3"
+  }
+}
