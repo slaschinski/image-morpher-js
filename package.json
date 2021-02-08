@@ -2,7 +2,7 @@
   "name": "image-morpher",
   "version": "0.0.1",
   "description": "Warps and blends between two images",
-  "main": "src/image-morpher.ts",
+  "main": "src/index.ts",
   "files": [
     "lib/**/*"
   ],

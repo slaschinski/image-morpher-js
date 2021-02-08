@@ -1,4 +1,4 @@
-import { ImageMorpher } from '../image-morpher';
+import { ImageMorpher } from '../index';
 test('My ImageMorpher', () => {
   expect(ImageMorpher()).toBe('Image Morpher');
 });
